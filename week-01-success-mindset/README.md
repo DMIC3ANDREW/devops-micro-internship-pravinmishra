@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+i believe everyone has the abiity to learning anything as long as he/she has a determined heart, your background does not define the length to what you can learn, only your mindset can hinder you
 
 ---
 
@@ -55,11 +55,12 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Learning is achieveable 
 
 ### Evidence from my life
 
-Add your answer here...
+Consistency is key to learn, when i'm not consist with a learning i tend to forget that which have learnt so far.
+
 
 ---
 
@@ -67,11 +68,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Determination is key to success
 
 ### Evidence from my life
 
-Add your answer here...
+My first AWS practional certification i failed from my first attempt but through determination i took the examination again and i passed it. 
 
 ---
 
@@ -79,11 +80,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Embrace failure its part of life lessons 
 
 ### Evidence from my life
 
-Add your answer here...
+My greatest lesson in life comes from my failures and not my wins 
 
 ---
 
@@ -93,7 +94,35 @@ Add your answer here...
 
 Write as if a journalist is writing about you **3 to 7 years from now** (not 20 years).
 
-**Minimum 300 words.**
+ **TECHNOLOGY TODAY MAGAZINE**
+
+### **Rising Through the Cloud**
+
+## **How Andrew Ogunlana Became a Respected DevOps and Cybersecurity Professional**
+
+**By Staff Reporter**
+**Published: July 2032 | Technology & Innovation**
+
+---
+
+### **LAGOS, NIGERIA** — What started as a determined commitment to learning modern technology evolved into an inspiring career that positioned **Andrew Ogunlana** among the leading DevOps and Cybersecurity professionals of his generation. Over six years, he built an impressive portfolio of technical projects, earned globally recognized certifications, and contributed to digital transformation initiatives that impacted businesses across Africa and beyond.
+
+Andrew's journey accelerated when he immersed himself in DevOps engineering while strengthening his expertise in cybersecurity, Python programming, cloud computing, Linux administration, networking, and automation. Instead of relying solely on classroom knowledge, he focused on building practical, real-world solutions that demonstrated his technical capabilities.
+
+His GitHub portfolio quickly became a showcase of production-ready projects featuring Docker containerization, Kubernetes orchestration, Infrastructure as Code using Terraform, AWS cloud deployments, CI/CD automation pipelines, Ansible configuration management, and system monitoring solutions. Recruiters and engineering managers frequently referenced his repositories because they reflected professional engineering standards and consistent technical growth.
+
+His influence extended beyond software development. Andrew published technical articles and educational blog posts that simplified complex concepts in DevOps, cloud engineering, networking, and cybersecurity for beginners. His content reached thousands of aspiring technology professionals and became a trusted learning resource for individuals transitioning into the technology industry. He also developed tutorials, workshops, and training sessions that empowered students and young professionals to build practical technical skills.
+
+As his experience expanded, Andrew led several DevOps transformation projects for startups, educational institutions, and corporate organizations. He successfully implemented automated deployment pipelines that reduced software release cycles from several days to only a few minutes while improving reliability, scalability, and security. His work contributed to the adoption of DevSecOps practices by integrating automated security testing directly into software development workflows.
+
+Outside engineering, Andrew strengthened his entrepreneurial vision through **Codex**, a creative and technology agency that provided branding, digital marketing, web development, media production, and technology consulting services. Under his leadership, the agency expanded its client portfolio, delivered innovative digital solutions, and helped businesses improve operational efficiency and strengthen their online presence.
+
+Andrew also earned multiple internationally recognized certifications in cloud computing, DevOps engineering, automation, and cybersecurity. These accomplishments increased his professional credibility and opened opportunities to collaborate with international engineering teams on large-scale infrastructure projects. His relocation into a broader global technology environment further expanded his impact while allowing him to continue mentoring aspiring African technology professionals.
+
+Colleagues consistently described Andrew as a disciplined engineer, collaborative leader, and lifelong learner. He contributed to open-source projects, participated in international developer communities, spoke at technology conferences, and shared practical insights on cloud infrastructure, automation, and secure software delivery.
+
+Today, Andrew Ogunlana's career stands as a testament to the value of consistency, continuous learning, and practical execution. Every project he built, every solution he shipped, every article he published, every certification he earned, and every contribution he made reflected an unwavering commitment to excellence. His transformation into a respected DevOps and Cybersecurity professional demonstrated that publicly showcasing skills through projects, portfolios, GitHub repositories, and technical writing remained one of the most effective paths to long-term success in the technology industry.
+
 
 ### Rules
 
@@ -135,11 +164,11 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+RISING THROUGH THE CLOUDS
 
 ### Public Link
 
-Paste your link here:
+https://www.linkedin.com/pulse/rising-through-clouds-andrew-ogunlana-1hgre
 
 `__________________________`
 
@@ -173,7 +202,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+When it comes to learning i don't cut corners rather i would say i have in time past procastinated what i should have done sooner which birthed regret at the end of the day. i felt bad because my action led to me working under stress and i couldn't  achieve more at the end of the day
 
 ---
 
@@ -199,16 +228,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits - James Clear ![book1](screenshots\Screenshot (15).png
+2. Deep Work - Cal Newport
+3. The DevOps Handbook - Gene Kim et al
+4. Accelerate - Nicole Forsgren et al
+5. Clean Code - Robert C. Martin
+6. The Psychology of Money - Morgan Housel
+7. Never Split the Difference - Chris Voss
+8. Leaders Eat Last  - Simon Sinek
+9. The 7 Habits of Highly Effective People — Stephen R. Covey
+10. Rich Dad Poor Dad - Robert T. Kiyosaki
 
 ---
 
@@ -237,16 +266,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning DevOps concepts and tools each week spending 15-20 hrs a week
+* Finiish 3 labs in a week
+* Work on 1 (One) personal DevOps project in a month
+* 3-5 ommits and repositories on git
+* Learn one 1 new cloud services in a month
+* Document atleast one of my project in a month
+* Sleep atleast 8 hours in a day
+* Always stay hydarted 
+* Eat healthy and commit to walking exercise afetr a long sitting meeting
+* Updae my linkedin profile post atleast twice a week
 
 ---
 
@@ -272,7 +301,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -290,7 +319,10 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+1. Mon–Thu: 60 min deep work
+2. Sat: DMI session
+3. Sun: Weekly review
+
 
 ---
 
@@ -298,11 +330,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday, Wednesday and Thursday (1PM-4PM)
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+Three sessions per week
 
 ---
 
@@ -316,7 +348,10 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+1. No Social Media during study hours 
+2. No Phone use during study
+3. Ensure my study time is no friend zone to avoid distraction
+
 
 ---
 
@@ -324,19 +359,19 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+i can discovered more than ever before that i can succeed at devops
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Procrastination
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Consistency, Time Management
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
+https://www.linkedin.com/pulse/rising-through-clouds-andrew-ogunlana-1hgre____________________`
 
 `__________________________`
 
@@ -344,8 +379,7 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **https://www.linkedin.com/pulse/rising-through-clouds-andrew-ogunlana-1hgre**  
 
 ---
 
