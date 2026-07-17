@@ -94,7 +94,9 @@ git fetch upstream
 git merge upstream/main
 git push
 ```
-
+git fetch upstream
+git merge upstream/main
+git push
 ---
 
 ## What Your Repo Looks Like vs. The Original

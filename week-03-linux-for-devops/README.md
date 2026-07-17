@@ -15,11 +15,11 @@ production-style operational checks — the way an on-call DevOps engineer would
 
 **What I did:**
 
-<!-- Describe the steps you took -->
+what i did was that i follow th guilddlines provded on udemy to complete the assignment and i was without issue 
 
 **Screenshot:**
 
-![Cloud Access](./screenshots/task1-cloud-access.png)
+![Cloud Access](week-03-linux-for-devops/screenshots/wk 3 Screenshot (1).png)
 
 ---
 
@@ -43,7 +43,7 @@ production-style operational checks — the way an on-call DevOps engineer would
 
 **Screenshot (app running in browser):**
 
-![React App Live](./screenshots/task2-app-live.png)
+![React App Live](week-03-linux-for-devops/screenshots/wk 3 Screenshot (2).png)
 
 ---
 
@@ -61,13 +61,13 @@ production-style operational checks — the way an on-call DevOps engineer would
 
 **Screenshot:**
 
-![Production Checks](./screenshots/task3-prod-checks.png)
+![Production Checks](week-03-linux-for-devops/screenshots/wk 3 Screenshot (3).png)
 
 ---
 
 ## Task 4: LinkedIn Post
 
-**Post URL:** <!-- Paste your LinkedIn post URL here -->
+**Post URL:** <https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_devops-react-nginx-share-7483836843285884929-LEB9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA>
 
 ---
 
