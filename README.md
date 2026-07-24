@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DevOps Micro Internship with Agentic AI — My Journey
 
 ![Cohort](https://img.shields.io/badge/Cohort-3-blue?style=for-the-badge)
@@ -80,11 +81,11 @@ This is not a course. It is an internship-style program — real deployments, re
  [![Week 03 – Linux](./badges/week-03.svg)](./week-03-linux-for-devops/)
 =======
 <!-- Week 03 → Linux & Bash for DevOps -->
-<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
->>>>>>> upstream/main
+[![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) 
+
 
 <!-- Week 04 → Git & GitHub -->
-<!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) -->
+[![Week 04 – Git](./badges/week-04.svg)](./week-04-github/)
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
 <!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
@@ -138,32 +139,20 @@ This is not a course. It is an internship-style program — real deployments, re
 <<<<<<< HEAD
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_ps-this-post-is-a-part-of-devops-micro-ugcPost-7477655705404018689-a7jv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA | — |
 | 02 | Agentic AI with Claude Code | 🔄 In progress | ⏳ Pending | — | — |
-| 03 | Linux for DevOps | ✅ Completed | ✅ Solved | — | — |
-| 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
-| 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
-| 06 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
-| 07 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 08 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 09 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
-| 10 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
-| 11 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
-| 12 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
-| 13 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
-| 14 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
-=======
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
+ <https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_devops-react-nginx-share-7483836843285884929-LEB9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA>
+| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved |  | https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_i-was-a-tough-one-but-i-did-it-dmi-cohort-ugcPost-7485917118970920960-e92j/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA |
+| 04 | Git & GitHub | ✅ Completed | ✅ Solved ||https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_devops-git-ai-share-7486392758350282753-AeI1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA
+| https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_small-project-but-a-solid-rep-of-a-real-ugcPost-7486180721741606912-7LJf/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
-| 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
+| 10| Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
 | 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
 | 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
 | 13 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
+=======
 >>>>>>> upstream/main
 
 **Status:** ⬜ Not Started &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ✅ Completed<br>
@@ -175,7 +164,14 @@ This is not a course. It is an internship-style program — real deployments, re
 
 *Awarded upon completing Week 13 — Final Project.*
 
-<!-- Drop your certificate image here -->
+ [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
+
+
+ [![Week 03 – Linux](./badges/week-03.svg)](./week-03-linux-for-devops/)
+
+
+[![Week 04 – Git](./badges/week-04.svg)](./week-04-github/)
+
 
 ---
 
@@ -187,3 +183,117 @@ If you found this repo useful or want to follow my DevOps journey:
 - 🔗 Connect with me on [LinkedIn](#)
 - 🌐 Learn more about the program: https://dmi.pravinmishra.com
 - 💬 Join the community: https://discord.pravinmishra.com
+=======
+# DevOps Micro Internship with Agentic AI — My Journey
+
+![Cohort](https://img.shields.io/badge/Cohort-3-blue?style=for-the-badge)
+![Program](https://img.shields.io/badge/DevOps_Micro_Internship-Pravin_Mishra-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
+![Weeks](https://img.shields.io/badge/Weeks_Completed-0%2F14-green?style=for-the-badge)
+
+> 👋 **New here?** Read the [submission instructions](./onboarding) first — how to fork, fill in, and submit your assignments.
+> Find all the required links & assignment guidelines from here [Required links](./dmi_cohort3_resources.md)
+
+---
+
+## About Me
+
+| | |
+|---|---|
+| **Name** | Pravin Mishra |
+| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
+| **Location** | Helsinki, Finland |
+| **Background** | Cloud, DevOps & AI Consultant |
+| **Goal** | Train 10,000+ DevOps professionals |
+
+---
+
+## About the Program
+
+**DevOps Micro Internship with Agentic AI** is a 14-week mentor-led cohort program by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) — Cloud, DevOps & AI consultant with 15+ years of experience, 5,000+ learners trained, and 26K+ LinkedIn followers.
+
+This is not a course. It is an internship-style program — real deployments, real pipelines, real evidence reviewed by mentors every week.
+
+- 🌐 Program Website: https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme
+- 💬 Discord Community: https://discord.pravinmishra.com?utm_source=github&utm_medium=readme
+- 📺 YouTube: [Pravin Mishra](https://www.youtube.com/@awswithpravinmishra)
+- 🔗 Instructor: [LinkedIn](https://www.linkedin.com/in/pravin-mishra-aws-trainer/)
+
+---
+
+## 🏆 Achievements
+
+### Champion of the Week
+
+<!-- If you were named Champion of the Week, add the badge below and link to your LinkedIn post -->
+
+| Week | Award | Post |
+|------|-------|------|
+| <!-- e.g. Week 03 --> | <!-- 🏆 Champion of the Week --> | <!-- [LinkedIn Post](#) --> |
+
+### Leaderboard
+
+<!-- Add your cohort leaderboard rank here as you progress -->
+
+> 🥇 Cohort 3 Rank: **#__** <!-- Update this each week -->
+
+---
+
+## My DevOps Stack
+
+*Earn a badge each week. To unlock: remove the `<!--` and `-->` from the badge line below.*
+
+*Share your stack:* `https://github.com/YOUR-USERNAME/devops-micro-internship-pravinmishra#my-devops-stack`
+
+**Preview — what your full stack looks like:**
+
+[![Week 00](./badges/week-00.svg)](./week-00-internet-and-networking/)[![Week 01](./badges/week-01.svg)](./week-01-success-mindset/)[![Week 02](./badges/week-02.svg)](./week-02-agentic-ai/)[![Week 03](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)[![Week 04](./badges/week-04.svg)](./week-04-github/)[![Week 05](./badges/week-05.svg)](./week-05-devops-lifecycle/)[![Week 06](./badges/week-06.svg)](./week-06-aws-cloud/)[![Week 07](./badges/week-07.svg)](./week-07-azure-cloud/)[![Week 08](./badges/week-08.svg)](./week-08-terraform/)[![Week 09](./badges/week-09.svg)](./week-09-ansible/)[![Week 10](./badges/week-10.svg)](./week-10-azure-devops/)[![Week 11](./badges/week-11.svg)](./week-11-docker/)[![Week 12](./badges/week-12.svg)](./week-12-kubernetes/)[![Week 13](./badges/week-13.svg)](./week-13-final-project/)
+
+---
+
+**Your stack (uncomment each badge as you earn it):**
+
+<!-- Week 00 → Internet & Networking Basics -->
+<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
+
+<!-- Week 01 → Success Mindset -->
+[![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
+
+<!-- Week 02 → Agentic AI with Claude Code -->
+[![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
+
+<!-- Week 03 → Linux & Bash for DevOps -->
+[![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
+
+<!-- Week 04 → Git & GitHub -->
+[![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) 
+
+<!-- Week 05 → DevOps Lifecycle & Agile -->
+<!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
+
+<!-- Week 06 → AWS Cloud -->
+<!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
+
+<!-- Week 07 → Azure Cloud -->
+<!-- [![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) -->
+
+<!-- Week 08 → Terraform -->
+<!-- [![Week 08 – Terraform](./badges/week-08.svg)](./week-08-terraform/) -->
+
+<!-- Week 09 → Ansible -->
+<!-- [![Week 09 – Ansible](./badges/week-09.svg)](./week-09-ansible/) -->
+
+<!-- Week 10 → Azure DevOps CI/CD -->
+<!-- [![Week 10 – CI/CD](./badges/week-10.svg)](./week-10-azure-devops/) -->
+
+<!-- Week 11 → Docker -->
+<!-- [![Week 11 – Docker](./badges/week-11.svg)](./week-11-docker/) -->
+
+<!-- Week 12 → Kubernetes -->
+<!-- [![Week 12 – K8s](./badges/week-12.svg)](./week-12-kubernetes/) -->
+
+<!-- Week 13 → Final Project / Capstone -->
+<!-- [![Week 13 – Capstone](./badges/week-13.svg)](./week-13-final-project/) -->
+
+*Complete a week → uncomment the badge → watch your stack grow.*
+
