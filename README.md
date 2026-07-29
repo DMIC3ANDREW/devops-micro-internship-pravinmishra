@@ -67,8 +67,8 @@ This is not a course. It is an internship-style program — real deployments, re
 
 **Your stack (uncomment each badge as you earn it):**
 
-<!-- Week 00 → Internet & Networking Basics -->
-<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
+ Week 00 → Internet & Networking Basics
+ [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) 
 
  Week 01 → Success Mindset
  [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
@@ -135,7 +135,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_today-i-completed-week-00-of-my-devops-learning-share-7488239298404655104-hTtw/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA| — |
 <<<<<<< HEAD
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_ps-this-post-is-a-part-of-devops-micro-ugcPost-7477655705404018689-a7jv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA | — |
 | 02 | Agentic AI with Claude Code | 🔄 In progress | ⏳ Pending | — | — |
@@ -163,6 +163,7 @@ This is not a course. It is an internship-style program — real deployments, re
 ## Certificate of Completion
 
 *Awarded upon completing Week 13 — Final Project.*
+[![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) 
 
  [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
