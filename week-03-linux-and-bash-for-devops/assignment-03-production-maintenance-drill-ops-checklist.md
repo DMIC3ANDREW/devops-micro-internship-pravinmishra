@@ -231,7 +231,7 @@ none of the three resources (CPU, memory, disk) are currently critical — all s
 
 **2. What happens if disk becomes 100% full in a production server?**
 
-When a disk reaches 100% capacity, the operating system can no longer write any new data — and this causes problems far beyond just running out of storage space:
+When a disk reaches 100% capacity, the operating system can no longer write any new data  and this causes problems far beyond just running out of storage space:
 
 ---
 
@@ -245,19 +245,19 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot (123).png>)
 
 ---
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot (124).png>)
 
 ---
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot (125).png>)
 
 ---
 
@@ -267,7 +267,7 @@ Answer the following in your own words:
 
 **1. How do you confirm that the correct version of the application is deployed?**
 
-Write your answer here.
+I confirm the correct version is deployed by checking the file timestamps in /var/www/html against my last deployment time, and by searching for a deployment marker string I added to the build (e.g., "Deployed by Andrew on <date>"). If that marker matches the commit/build I intended to ship, I know the right version is live — rather than relying on assumption or an old cached build.
 
 ---
 
@@ -281,19 +281,19 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot (126).png>)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot (127).png>)
 
 ---
 
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot (128).png>)
 
 ---
 
@@ -303,19 +303,19 @@ Answer the following in your own words:
 
 **1. What caused the configuration failure?**
 
-Write your answer here.
+I intentionally introduced a syntax error i misspelled a directive listen to listenn in the Nginx config to simulate a real misconfiguration.
 
 ---
 
 **2. How did you fix the issue?**
 
-Write your answer here.
+I ran sudo nginx -t to identify exactly which line was invalid, corrected the syntax, re-ran nginx -t to confirm it passed, then reloaded Nginx with sudo systemctl reload nginx so the fix took effect without dropping the service.
 
 ---
 
 **3. How can you avoid this kind of issue in real production systems?**
 
-Write your answer here.
+Always run nginx -t before every reload  never reload blindly. In real production, config changes should also go through version control and be tested in a staging environment before touching production.
 
 ---
 
@@ -329,13 +329,13 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot (131).png>)
 
 ---
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot (132).png>)
 
 ---
 
@@ -345,19 +345,17 @@ Answer the following in your own words:
 
 **1. What caused the application to break in this scenario?**
 
-Write your answer here
+I removed the index.html file from /var/www/html, which is the entry point Nginx serves by default. Nginx itself remained fully functional — it simply had no file to return, resulting in a 403 Forbidden response since directory listing is disabled.
 
----
+
 
 **2. How did you fix the issue and restore the application?**
 
-Write your answer here.
-
----
+I restored the missing index.html file back to /var/www/html and verified recovery by running curl -I again, which confirmed the site returned a 200 OK response.
 
 **3. What steps would you take to prevent this kind of issue in real production systems?**
 
-Write your answer here.
+Deploy application files through a version-controlled, automated deployment process rather than manual file operations, so files can't be accidentally deleted or go missing. Automated uptime/health-check monitoring that alerts on non-200 responses would also catch this kind of issue immediately, before real users are affected.
 
 ---
 
@@ -373,31 +371,31 @@ Answer the following in your own words:
 
 **1. Why is SSH key-based authentication more secure than sharing passwords?**
 
-Write your answer here.
+SSH key-based authentication vs. sharing passwords: SSH keys use a public/private key pair instead of a shared secret — the private key never leaves your machine, so it can't be intercepted or brute-forced the way a password can. Passwords are also often reused across systems, which keys avoid entirely. This assignment reinforced this directly: I had to use a private .pem key file to authenticate to my EC2 instance, and permissions on that key file are strictly enforced (SSH refuses to use a key that's too open).
 
 ---
 
 **2. Why should only required ports be open on a production server?**
 
-Write your answer here.
+Only required ports open: Every open port is a potential entry point for an attacker to probe or exploit. In this assignment, I only opened port 22 (SSH, restricted to my IP) and port 80 (HTTP, for public web traffic) — nothing else, minimizing the attack surface.
 
 ---
 
 **3. Why is it important for Nginx to be enabled on boot?**
 
-Write your answer here.
+If the server restarts unexpectedly (crash, maintenance, reboot) and Nginx isn't set to start automatically, the site goes down until someone manually intervenes. Enabling it on boot makes the service self-healing after a restart.
 
 ---
 
 **4. What are the risks of sharing secrets, keys, or credentials publicly?**
 
-Write your answer here.
+Anyone who obtains a leaked private key or credential can impersonate you, access private systems, steal or destroy data, or run up costs on cloud resources — often without you even knowing until real damage is done. This is exactly why .pem files should never be committed to a public GitHub repo.
 
 ---
 
 **5. Why should cloud resources be stopped or terminated when they are no longer needed?**
 
-Write your answer here.
+Idle EC2 instances still incur billing charges and remain a live attack surface even when not actively used. Shutting them down when no longer needed reduces both unnecessary cost and unnecessary risk — this is also why I had to relaunch a fresh instance partway through this assignment, since the original one had been terminated.
 
 ---
 
@@ -409,13 +407,14 @@ Write your answer here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+<https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_devops-react-nginx-share-7483836843285884929-LEB9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA>
+
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+https://www.linkedin.com/pulse/my-react-app-week-3-andrew-ogunlana-3aa7e
 
 ---
 
@@ -429,17 +428,17 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Screenshots (browser, ip a, ss -tulpen, ufw status) + Notes answered
-- [ ] Task 2: Screenshots (nginx status, nginx -t, ss port 80) + Notes answered
-- [ ] Task 3: Screenshots (access log, error log, journalctl) + Notes answered
-- [ ] Task 4: Screenshots (uptime, free -h, df -h, du -sh) + Notes answered
-- [ ] Task 5: Screenshots (ls html, grep deployed by, grep try_files) + Notes answered
-- [ ] Task 6: Screenshots (nginx -t fail, nginx -t pass, curl recovery) + Notes answered
-- [ ] Task 7: Screenshots (curl failure, curl recovery) + Notes answered
-- [ ] Task 8: Security & Reliability Notes answered
-- [ ] LinkedIn post published and URL submitted
-- [ ] Full Name visible in all required screenshots
-- [ ] No sensitive data exposed
+- [✅] Task 1: Screenshots (browser, ip a, ss -tulpen, ufw status) + Notes answered
+- [✅] Task 2: Screenshots (nginx status, nginx -t, ss port 80) + Notes answered
+- [✅] Task 3: Screenshots (access log, error log, journalctl) + Notes answered
+- [✅] Task 4: Screenshots (uptime, free -h, df -h, du -sh) + Notes answered
+- [✅] Task 5: Screenshots (ls html, grep deployed by, grep try_files) + Notes answered
+- [✅] Task 6: Screenshots (nginx -t fail, nginx -t pass, curl recovery) + Notes answered
+- [✅] Task 7: Screenshots (curl failure, curl recovery) + Notes answered
+- [✅] Task 8: Security & Reliability Notes answered
+- [✅] LinkedIn post published and URL submitted
+- [✅] Full Name visible in all required screenshots
+- [✅] No sensitive data exposed
 
 ---
 

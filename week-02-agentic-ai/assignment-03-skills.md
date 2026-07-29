@@ -1,4 +1,3 @@
-# Assignment 3 — Building Your Command Center
 
 Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 

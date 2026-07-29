@@ -62,7 +62,7 @@ Confirm that the GitHub MCP server is successfully connected inside Claude Code.
 
 #### Screenshot 4 — `/mcp` output showing `github: connected`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot (242).png>)
 
 ---
 
@@ -76,7 +76,7 @@ Verify MCP functionality by retrieving real-time data from your GitHub account u
 
 #### Screenshot 5 — Claude's response showing the GitHub MCP tool call and the retrieved README.md content.
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot (243).png>)
 
 ---
 
@@ -92,12 +92,7 @@ Add your screenshot here.
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
-
-<<<<<<< HEAD:week-02-agentic-ai/solution-assignment-05-mcp.md
-=======
-`Add your URL here`
->>>>>>> upstream/main:week-02-agentic-ai/assignment-05-mcp.md
+https://github.com/DMIC3ANDREW/devops-micro-internship-pravinmishra.git
 
 ---
 
@@ -105,21 +100,21 @@ Paste your forked repository URL here:
 
 Confirm below:
 
-- [ ] `settings.local.json` is added to `.gitignore`
-- [ ] GitHub token is NOT exposed in repository or screenshots
+- [✅ ] `settings.local.json` is added to `.gitignore`
+- [✅ ] GitHub token is NOT exposed in repository or screenshots
 
 ---
 
 # Completion Checklist
 
-- [ ] GitHub PAT created with correct scopes (`repo`, `read:user`)
-- [ ] `.mcp.json` created at project root
-- [ ] `.claude/settings.local.json` contains token (hidden in screenshot)
-- [ ] `.claude/settings.local.json` is NOT committed
-- [ ] `/mcp` shows GitHub connection as active
-- [ ] Live GitHub query returns real repository data
-- [ ] All required screenshots added
-- [ ] GitHub repository URL included
+- [✅ ] GitHub PAT created with correct scopes (`repo`, `read:user`)
+- [✅ ] `.mcp.json` created at project root
+- [✅ ] `.claude/settings.local.json` contains token (hidden in screenshot)
+- [✅ ] `.claude/settings.local.json` is NOT committed
+- [✅ ] `/mcp` shows GitHub connection as active
+- [✅ ] Live GitHub query returns real repository data
+- [✅ ] All required screenshots added
+- [✅ ] GitHub repository URL included
 
 ---
 
