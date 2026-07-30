@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # DevOps Micro Internship with Agentic AI — My Journey
 
 ![Cohort](https://img.shields.io/badge/Cohort-3-blue?style=for-the-badge)
@@ -63,28 +63,21 @@ This is not a course. It is an internship-style program — real deployments, re
 
 [![Week 00](./badges/week-00.svg)](./week-00-internet-and-networking/)[![Week 01](./badges/week-01.svg)](./week-01-success-mindset/)[![Week 02](./badges/week-02.svg)](./week-02-agentic-ai/)[![Week 03](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)[![Week 04](./badges/week-04.svg)](./week-04-github/)[![Week 05](./badges/week-05.svg)](./week-05-devops-lifecycle/)[![Week 06](./badges/week-06.svg)](./week-06-aws-cloud/)[![Week 07](./badges/week-07.svg)](./week-07-azure-cloud/)[![Week 08](./badges/week-08.svg)](./week-08-terraform/)[![Week 09](./badges/week-09.svg)](./week-09-ansible/)[![Week 10](./badges/week-10.svg)](./week-10-azure-devops/)[![Week 11](./badges/week-11.svg)](./week-11-docker/)[![Week 12](./badges/week-12.svg)](./week-12-kubernetes/)[![Week 13](./badges/week-13.svg)](./week-13-final-project/)
 
----
-
-**Your stack (uncomment each badge as you earn it):**
+ 
+  **Your stack (uncomment each badge as you earn it):**
 
  Week 00 → Internet & Networking Basics
  [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) 
 
  Week 01 → Success Mindset
  [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
-
-<!-- Week 02 → Agentic AI with Claude Code -->
+ <!-- Week 02 → Agentic AI with Claude Code -->
 <!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
-
-<<<<<<< HEAD
- Week 03 → Linux for DevOps 
- [![Week 03 – Linux](./badges/week-03.svg)](./week-03-linux-for-devops/)
-=======
+  Week 03 → Linux for DevOps 
+  [![Week 03 – Linux](./badges/week-03.svg)](./week-03-linux-for-devops/)
  Week 03 → Linux & Bash for DevOps 
 [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) 
-
-
- Week 04 → Git & GitHub 
+  Week 04 → Git & GitHub 
 [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/)
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
@@ -135,8 +128,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_today-i-completed-week-00-of-my-devops-learning-share-7488239298404655104-hTtw/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA| — |
-<<<<<<< HEAD
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_today-i-completed-week-00-of-my-devops-learning-share-7488239298404655104-hTtw/? utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA| — |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_ps-this-post-is-a-part-of-devops-micro-ugcPost-7477655705404018689-a7jv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA | — |
 | 02 | Agentic AI with Claude Code | 🔄 In progress | ⏳ Pending | — | — |
  <https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_devops-react-nginx-share-7483836843285884929-LEB9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA>
@@ -152,8 +144,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
 | 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
 | 13 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
-=======
->>>>>>> upstream/main
+
 
 **Status:** ⬜ Not Started &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ✅ Completed<br>
 **Assignment:** ⏳ Pending &nbsp;|&nbsp; ✅ Solved
