@@ -128,7 +128,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_today-i-completed-week-00-of-my-devops-learning-share-7488239298404655104-hTtw/? utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA| — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_today-i-completed-week-00-of-my-devops-learning-share-7488239298404655104-hTtw/? utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA| https://www.linkedin.com/pulse/dmi-week-0-onboarding-assignment-andrew-ogunlana-sxiyf |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_ps-this-post-is-a-part-of-devops-micro-ugcPost-7477655705404018689-a7jv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA | — |
 | 02 | Agentic AI with Claude Code | 🔄 In progress | ⏳ Pending | — | — |
  <https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_devops-react-nginx-share-7483836843285884929-LEB9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA>
