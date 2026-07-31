@@ -1,0 +1,4 @@
+2026-07-31 02:47:31 - cd /tmp && echo '{"tool_input":{"command":"terraform validate"}}' | /mnt/c/Users/USER/Desktop/devops-micro-internship-pravinmishra/.claude/hooks/post-tool-logger.sh; echo "exit=$?"
+2026-07-31 02:47:55 - mkdir -p /tmp/hooktest/.claude && cd /tmp/hooktest && echo '{"tool_input":{"command":"terraform validate"}}' | /mnt/c/Users/USER/Desktop/devops-micro-internship-pravinmishra/.claude/hooks/post-tool-logger.sh; cat /tmp/hooktest/.claude/deploy.log
+2026-07-31 02:50:37 - cd /mnt/c/Users/USER/Desktop/devops-micro-internship-pravinmishra/week-08-terraform/codetrack-test && terraform validate
+2026-07-31 02:52:32 - terraform validate
