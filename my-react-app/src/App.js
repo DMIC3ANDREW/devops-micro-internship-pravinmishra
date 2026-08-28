@@ -35,6 +35,10 @@ function App() {
           LinkedIn
         </a>.
       </p>
+
+      <footer>
+  <p>Pravin Mishra Portfolio v1.0 — Deployed on 27 Aug 2026 — By Andrew</p>
+</footer>
     </div>
   );
 }
