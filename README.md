@@ -130,11 +130,9 @@ This is not a course. It is an internship-style program — real deployments, re
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_today-i-completed-week-00-of-my-devops-learning-share-7488239298404655104-hTtw/? utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA| https://www.linkedin.com/pulse/dmi-week-0-onboarding-assignment-andrew-ogunlana-sxiyf |
-| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_ps-this-post-is-a-part-of-devops-micro-ugcPost-7477655705404018689-a7jv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA | — |
-| 02 | Agentic AI with Claude Code | ✅ Completed |  ✅ Solved | https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_devops-agenticai-claudecode-share-7488804017779785728-4cpL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA
- | https://www.linkedin.com/pulse/week-2-agentic-ai-reflection-andrew-ogunlana-xwrie |
- <https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_devops-react-nginx-share-7483836843285884929-LEB9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA>
-| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved |  | https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_i-was-a-tough-one-but-i-did-it-dmi-cohort-ugcPost-7485917118970920960-e92j/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_ps-this-post-is-a-part-of-devops-micro-ugcPost-7477655705404018689-a7jv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA | https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_activity-7488588768728510466-0IrP?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA |
+| 02 | Agentic AI with Claude Code | ✅ Completed |  ✅ Solved | https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_devops-agenticai-claudecode-share-7488804017779785728-4cpL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA | https://www.linkedin.com/pulse/dmi-week-2-teaching-claude-code-work-like-teammate-just-ogunlana-xkske |
+| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved |  | https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_i-was-a-tough-one-but-i-did-it-dmi-cohort-ugcPost-7485917118970920960-e92j/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA |https://www.linkedin.com/pulse/week-3-from-servers-down-back-up-ai-teammate-loop-drivers-ogunlana-ook0e
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved ||https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_devops-git-ai-share-7486392758350282753-AeI1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA
 | https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_small-project-but-a-solid-rep-of-a-real-ugcPost-7486180721741606912-7LJf/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
@@ -178,13 +176,3 @@ If you found this repo useful or want to follow my DevOps journey:
 - 🔗 Connect with me on [LinkedIn](#)
 - 🌐 Learn more about the program: https://dmi.pravinmishra.com
 - 💬 Join the community: https://discord.pravinmishra.com
-=======
-=======
-# DevOps Micro Internship with Agentic AI — My Journey
-
-![Cohort](https://img.shields.io/badge/Cohort-3-blue?style=for-the-badge)
-![Program](https://img.shields.io/badge/DevOps_Micro_Internship-Pravin_Mishra-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
-![Weeks](https://img.shields.io/badge/Weeks_Completed-0%2F14-green?style=for-the-badge)
-
->
