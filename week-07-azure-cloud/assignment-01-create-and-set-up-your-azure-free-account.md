@@ -30,13 +30,13 @@ Sign in to the Azure Portal, locate key services (Resource Groups, Virtual Machi
 
 #### Screenshot 1 — Azure Portal homepage after successful login
 
-Add your screenshot here.
+![Task 2a](<screenshots/Screenshot (342).png>)
 
 ---
 
 #### Screenshot 2 — "Subscriptions" section showing the "Free Trial" subscription
 
-Add your screenshot here.
+![Task 2b](<screenshots/Screenshot (343).png>)
 
 ---
 
@@ -44,7 +44,7 @@ Add your screenshot here.
 
 Write a three-to-four-line paragraph explaining which Azure services you plan to explore first and why.
 
-Write your answer here.
+I plan to explore Virtual Machines first because understanding how to create and manage VMs is fundamental to DevOps work. After that, I'll explore Azure App Services to understand how to deploy applications, and then Storage to learn about managing cloud data. These three services cover the core infrastructure, applications, and data management that DevOps engineers work with daily.
 
 ---
 
@@ -57,12 +57,12 @@ Write your answer here.
 
 # Completion Checklist
 
-- [ ] Azure Free Account created with identity, phone, and payment verification completed
-- [ ] Microsoft Agreement and Offer Terms accepted
-- [ ] Azure Portal accessed successfully (Screenshot 1)
-- [ ] Free Trial subscription confirmed (Screenshot 2)
-- [ ] Reflection paragraph written (Notes)
-- [ ] No sensitive information exposed
+- [✅ ] Azure Free Account created with identity, phone, and payment verification completed
+- [✅ ] Microsoft Agreement and Offer Terms accepted
+- [✅ ] Azure Portal accessed successfully (Screenshot 1)
+- [✅ ] Free Trial subscription confirmed (Screenshot 2)
+- [✅ ] Reflection paragraph written (Notes)
+- [✅ ] No sensitive information exposed
 
 ---
 

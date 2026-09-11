@@ -169,11 +169,7 @@ RISING THROUGH THE CLOUDS
 
 ### Public Link
 
-https://www.linkedin.com/pulse/rising-through-clouds-andrew-ogunlana-1hgre
-
-`Add your URL here`
-
----
+https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_activity-7488588768728510466-0IrP?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
 
@@ -385,7 +381,7 @@ https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_devops-learninginpublic-
 
 - LinkedIn Post URL: https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_devops-learninginpublic-networking-share-7488586662965501952-pqAe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA
 
-- Blog / Medium : https://www.linkedin.com/pulse/building-my-mindset-os-becoming-20-version-myself-andrew-ogunlana-ty6ae
+- Blog / Medium : https://www.linkedin.com/posts/andrew-ogunlana-70654ba7_activity-7488588768728510466-0IrP?utm_source=share&utm_medium=member_desktop&rcm=ACoAABau_jYBg6kU-k2bFgLhNF2byWrnftwaanA
 
 ---
 

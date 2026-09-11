@@ -20,34 +20,34 @@ Build a VPC (10.0.0.0/16) with two public and two private subnets across two Ava
 
 #### Screenshot 1 — VPC details showing CIDR 10.0.0.0/16
 
-Add your screenshot here.
+![Task 1a](<screenshots/Screenshot (330).png>)
 
 ---
 
 #### Screenshot 2 — Subnets list showing four subnets and their Availability Zones
 
-Add your screenshot here.
+![Task 1b](<screenshots/Screenshot (331).png>)
 
 ---
 
 #### Screenshot 3 — Public route table showing the Internet Gateway route and both public-subnet associations
 
-Add your screenshot here.
+![Task 1c](<screenshots/Screenshot (333).png>)
 
 ---
 
 #### Screenshot 4 — Private route table showing the NAT Gateway route and both private-subnet associations
 
-Add your screenshot here.
+![Task 1d](<screenshots/Screenshot (334).png>)
 
 ---
 
 #### Screenshot 5 — NAT Gateway status showing Available and the Elastic IP
 
-Add your screenshot here.
+![Task 1e](<screenshots/Screenshot (335).png>)
 
 ---
-
+                    
 # Task 2 — Create Security Groups (ALB, EC2, RDS) with Least Privilege
 
 ## Goal
@@ -58,7 +58,7 @@ Create `ha-alb-sg` (HTTP public), `ha-web-sg` (HTTP only from `ha-alb-sg`, SSH f
 
 #### Screenshot 6 — ALB Security Group inbound rules
 
-Add your screenshot here.
+![Task 2a](<screenshots/Screenshot (336).png>)
 
 ---
 
@@ -84,13 +84,13 @@ Launch a private, Multi-AZ RDS database (MySQL or PostgreSQL) using the private 
 
 #### Screenshot 9 — RDS summary showing Multi-AZ = Yes and Publicly accessible = No
 
-Add your screenshot here.
+ ![Task 2b](<screenshots/Screenshot (337).png>)
 
 ---
 
 #### Screenshot 10 — RDS connectivity section showing the DB Subnet Group and Security Group
 
-Add your screenshot here.
+![Task 2c](<screenshots/Screenshot (338).png>)
 
 ---
 
